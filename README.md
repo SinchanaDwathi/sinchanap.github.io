@@ -1,42 +1,67 @@
-# 🌐 Personal Portfolio Website
+# 🌐 Sinchana Dwathi P – Portfolio Website
 
-This is my personal portfolio website created to showcase my **skills, projects, and contact information** as a front-end web developer.
-
----
-
-## 🚀 Technologies Used
-- HTML5  
-- CSS3  
-- JavaScript (basic)  
+A modern, responsive, and Apple-inspired personal portfolio website built using **HTML, CSS, and JavaScript**.
+This portfolio showcases my projects, skills, and frontend development expertise.
 
 ---
+
 
 ## 📌 Features
-- Clean and simple design  
-- Fully responsive layout  
-- Easy to navigate  
-- Beginner-friendly structure  
+
+* ✨ Clean and minimal Apple-style UI
+* 🎬 Smooth page transitions (fade + slide)
+* 📱 Fully responsive (mobile + desktop)
+* 🧠 Scroll-based reveal animations
+* 🎯 Sticky header with blur effect
+* 💼 Projects section with real-world applications
+* 📄 Resume download option
+* ⚡ Smooth navigation between sections
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (Vanilla JS)
+* Google Fonts
 
 ---
 
 ## 📂 Sections Included
-- Home  
-- Services 
-- Skills  
-- Contact  
+
+* Home (Hero Section)
+* About
+* Services
+* Projects
+* Skills
+* Contact
 
 ---
 
-## 🔗 Live Website
-👉 https://sinchanap.github.io  
+## 💡 Projects Highlighted
+
+* ♻️ Waste Management System (AI-based)
+* 🗳️ Blockchain Voting System (Facial Recognition)
+* 🌐 Portfolio Website
 
 ---
+
 
 ## 📬 Contact
-If you’d like to work with me or discuss a project, feel free to contact me.
 
-📧 Email: psinchanadwathi@gmail.com  
+* 📧 Email: [psinchanadwathi@gmail.com](mailto:psinchanadwathi@gmail.com)
+* 💻 GitHub: https://github.com/SinchanaDwathi
+* 🔗 LinkedIn: https://www.linkedin.com/in/sinchana-dwathi-p
 
 ---
 
-⭐ If you like this project, feel free to give it a star!
+## ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
+
+## 📄 License
+
+This project is open-source and free to use.
