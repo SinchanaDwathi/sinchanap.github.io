@@ -47,6 +47,12 @@ This portfolio showcases my projects, skills, and frontend development expertise
 
 ---
 
+## ⚙️How to Run This Project Locally
+1. Click the green "Code" button on GitHub  
+2. Select "Download ZIP"  
+3. Extract the ZIP file  
+4. Open portfolio.html in your browser  
+
 
 ## 📬 Contact
 
